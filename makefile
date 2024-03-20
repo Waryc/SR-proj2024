@@ -5,7 +5,8 @@ commit:
 	git commit -m "$(NAME)"
 
 pull:
-	git pull origin master
+	git pull origin main
 
 push:
-	git push origin master
+	add .
+	git push origin main
