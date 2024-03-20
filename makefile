@@ -7,5 +7,5 @@ commit:
 pull:
 	git pull origin main
 
-push:
+push: commit
 	git push origin main
