@@ -8,5 +8,4 @@ pull:
 	git pull origin main
 
 push:
-	add .
 	git push origin main
