@@ -1,0 +1,4 @@
+"ID","name","versionNumber","contentType","dataFileSizeBytes","createdBy","createdOn","modifiedBy","modifiedOn","parentId","synapseURL","dataFileMD5Hex"
+"syn25555271","MOOD_abstract_template.tex","1","text/x-tex","1618","3400517","1618564644082","3400517","1618564644082","syn25555266","https://www.synapse.org/#!Synapse:syn25555271.1","394d7f905ffb1927ac0d68221b8309c9"
+"syn25555270","MOOD_abstract_template.odt","1","application/vnd.oasis.opendocument.text","19980","3400517","1618564641389","3400517","1618564641389","syn25555266","https://www.synapse.org/#!Synapse:syn25555270.1","d2da4c8d377d578246a3876134cc9eb7"
+"syn22009167","MOOD Download.pdf","1","application/pdf","20471","3400517","1588493941658","3400517","1588597639588","syn22009166","https://www.synapse.org/#!Synapse:syn22009167.1","9401a31bb6136d42cecbca1a62a18919"
